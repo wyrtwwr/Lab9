@@ -18,7 +18,7 @@
 5. **Конец**
    
 ### Блок-схема
-<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab8/blob/main/lab8_shema.jpg" />
+<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab9/blob/main/Lab9_chema.jpg" />
 
 ## 2. Реализация программы
 
@@ -109,4 +109,4 @@ int main() {
 Продолжить? (Да - y, Нет - n): Y
 Введите радиус (высоту половины дельтоида):
 
-<img src="https://github.com/wyrtwwr/Lab8/blob/main/lab8_code.jpg" width="981" height="266">
+<img src="https://github.com/wyrtwwr/Lab9/blob/main/lab9_progs.jpg" width="981" height="266">
