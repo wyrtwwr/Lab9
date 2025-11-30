@@ -40,14 +40,14 @@ int main() {
 
     setlocale(LC_ALL, "RUS");
 
-    char ch;
+    char sim;
     char cont = 'y';
     int h;
 
     while (cont == 'y' || cont == 'Y') {
 
         printf("Введите символ: ");
-        scanf(" %c", &ch);
+        scanf(" %c", &sim);
 
         printf("Введите высоту треугольника: ");
         scanf("%d", &h);
@@ -61,13 +61,13 @@ int main() {
             }
 
             if (i == 1) {                 
-                printf("%c\n", ch);
+                printf("%c\n", sim);
                 continue;
             }
 
             if (i == h) {                
                 for (int k = 0; k < 2 * h - 1; k++) {
-                    printf("%c", ch);
+                    printf("%c", sim);
                 }
                 printf("\n");
                 continue;
@@ -80,7 +80,7 @@ int main() {
                 printf(" ");              
             }
 
-            printf("%c\n", ch);          
+            printf("%c\n", sim);          
         }
 
     
