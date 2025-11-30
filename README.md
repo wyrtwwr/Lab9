@@ -23,7 +23,8 @@
 5. **Конец**
    
 ### Блок-схема
-<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://github.com/wyrtwwr/Lab9/blob/main/Lab9_chema.jpg" />
+<img width="669" height="711" alt="{1D312FEB-878E-43A6-9BAD-CD0FAEDD2C9F}" src="https://github.com/user-attachments/assets/015343c0-3363-4414-b564-3069e482c9d9" />
+
 
 ## 2. Реализация программы
 ```
